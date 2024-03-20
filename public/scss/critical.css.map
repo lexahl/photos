@@ -1,20 +1,20 @@
 {
 	"version": 3,
 	"file": "critical.css",
-	"sourceRoot": "/Users/Lexi/desktop/sites/photos",
+	"sourceRoot": "/Users/Lexi/desktop/sites/photos/photos",
 	"sources": [
 		"themes/bridget/assets/scss/critical.scss",
-		"../../../desktop/sites/photos/themes/bridget/assets/scss/_core/_reset.scss",
-		"../../../desktop/sites/photos/themes/bridget/assets/scss/_core/_font.scss",
-		"../../../desktop/sites/photos/themes/bridget/assets/scss/_core/_typography.scss",
-		"../../../desktop/sites/photos/themes/bridget/assets/scss/_core/_mixins.scss",
-		"../../../desktop/sites/photos/themes/bridget/assets/scss/_core/_mixins.scss",
-		"../../../desktop/sites/photos/themes/bridget/assets/scss/_variables.scss",
-		"../../../desktop/sites/photos/themes/bridget/assets/scss/_core/_mixins.scss",
-		"../../../desktop/sites/photos/themes/bridget/assets/scss/_core/_base.scss",
-		"../../../desktop/sites/photos/themes/bridget/assets/scss/_partial/_nav.scss",
-		"../../../desktop/sites/photos/themes/bridget/assets/scss/_partial/_article.scss",
-		"../../../desktop/sites/photos/themes/bridget/assets/scss/_partial/_container.scss"
+		"../../../../desktop/sites/photos/photos/themes/bridget/assets/scss/_core/_reset.scss",
+		"../../../../desktop/sites/photos/photos/themes/bridget/assets/scss/_core/_font.scss",
+		"../../../../desktop/sites/photos/photos/themes/bridget/assets/scss/_core/_typography.scss",
+		"../../../../desktop/sites/photos/photos/themes/bridget/assets/scss/_core/_mixins.scss",
+		"../../../../desktop/sites/photos/photos/themes/bridget/assets/scss/_core/_mixins.scss",
+		"../../../../desktop/sites/photos/photos/themes/bridget/assets/scss/_variables.scss",
+		"../../../../desktop/sites/photos/photos/themes/bridget/assets/scss/_core/_mixins.scss",
+		"../../../../desktop/sites/photos/photos/themes/bridget/assets/scss/_core/_base.scss",
+		"../../../../desktop/sites/photos/photos/themes/bridget/assets/scss/_partial/_nav.scss",
+		"../../../../desktop/sites/photos/photos/themes/bridget/assets/scss/_partial/_article.scss",
+		"../../../../desktop/sites/photos/photos/themes/bridget/assets/scss/_partial/_container.scss"
 	],
 	"sourcesContent": [
 		"@charset \"utf-8\";\n\n@import '_core/reset';\n@import '_core/font';\n@import '_core/typography';\n@import '_core/mixins';\n@import '_variables';\n@import '_core/base';\n\n@import '_partial/nav';\n@import '_partial/article';\n@import '_partial/container';\n",
